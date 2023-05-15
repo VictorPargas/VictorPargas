@@ -41,5 +41,3 @@
   
   
   <div
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
