@@ -38,7 +38,7 @@
 
 <div align="center">
   
-  ![Snake animation]
+  
   
   <div
 <div align="center">
